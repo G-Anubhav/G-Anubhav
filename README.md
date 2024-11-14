@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software, web developer and c++ programmer.</h3>
 <p align='center'>
 
-![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat)
+![g-anubhav](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anubhav-goyal-962744211/)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/its_anubhav)
 </p>
