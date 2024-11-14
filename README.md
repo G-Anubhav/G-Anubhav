@@ -7,6 +7,8 @@
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/its_anubhav)
 </p>
 
+<h2> About Me</h2>
+
 - 🔭 I’m currently working on **App Development Frameworks**
 
 - 🌱 I’m currently learning **Cloud Devops / Fullstack Development**
