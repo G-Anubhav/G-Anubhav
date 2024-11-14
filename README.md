@@ -1,5 +1,11 @@
 <h1 align="center"><greet> Hola 👋, coder! I'm Anubhav Goyal </greet></h1>
 <h3 align="center">A passionate software, web developer and c++ programmer.</h3>
+<p align='center'>
+
+![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/akshatmittal61/)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/akshatmittal61)
+</p>
 
 - 🔭 I’m currently working on **App Development Frameworks**
 
