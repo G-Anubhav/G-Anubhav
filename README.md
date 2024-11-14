@@ -1,5 +1,5 @@
 <h1 align="center"><greet> Hola 👋, coder! I'm Anubhav Goyal </greet></h1>
-<h3 align="center">A passionate software and web developer.</h3>
+<h3 align="center">A passionate software, web developer and c++ programmer.</h3>
 
 - 🔭 I’m currently working on **App Development Frameworks**
 
