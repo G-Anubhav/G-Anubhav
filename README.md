@@ -9,7 +9,7 @@
 
 - 🤝 Seeking assistance with: **Redux & PHP**
 
-- 📄 Learn about my adventures [https://anubhavgoyal.netlify.app/](https://anubhavgoyal.netlify.app/)
+- 📄 Learn about my adventures [My Portfolio](https://anubhavgoyal.netlify.app/)
 
 - 💬 Hit me up about **DSA, Fullstack Web Development & Cloud Technology**
 
