@@ -9,6 +9,8 @@
 
 <h2> About Me</h2>
 
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+
 - 🔭 I’m currently working on **App Development Frameworks**
 
 - 🌱 I’m currently learning **Cloud Devops / Fullstack Development**
