@@ -34,6 +34,7 @@
 <a href="https://discord.gg/its_anubhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_anubhav" height="30" width="40" /></a>
 </p>
 
+<h2> My GitHub facts & figures <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 64> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=g-anubhav&show_icons=true&locale=en&layout=compact" alt="g-anubhav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=g-anubhav&show_icons=true&locale=en" alt="g-anubhav" /></p>
