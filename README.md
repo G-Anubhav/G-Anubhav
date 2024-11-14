@@ -1,4 +1,4 @@
-<h1 align="center"> Hola 👋, coder! I'm Anubhav Goyal <Greet /> </h1>
+<h1 align="center"> &lt;greet &gt;  Hola 👋, coder! I'm Anubhav Goyal </h1>
 <h3 align="center">A passionate software, web developer and c++ programmer.</h3>
 <p align='center'>
 
