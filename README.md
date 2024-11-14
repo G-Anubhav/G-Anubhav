@@ -15,7 +15,7 @@
 
 - 📫 Feel free to reach out **anubhavgoyal868@gmail.com**
 
-- 👨‍💻 Find my resume here: [[My Resume](https://drive.google.com/file/d/11o12LcRRoyT-ZxgGaSGqvdZq6KyQZJ2n/view?usp=drive_link)]([My Resume](https://drive.google.com/file/d/11o12LcRRoyT-ZxgGaSGqvdZq6KyQZJ2n/view?usp=drive_link))
+- 👨‍💻 Find my resume here: [(https://drive.google.com/file/d/11o12LcRRoyT-ZxgGaSGqvdZq6KyQZJ2n/view?usp=drive_link)]((https://drive.google.com/file/d/11o12LcRRoyT-ZxgGaSGqvdZq6KyQZJ2n/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
