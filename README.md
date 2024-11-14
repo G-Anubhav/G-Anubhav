@@ -4,7 +4,7 @@
 
 ![akshatmittal61](https://komarev.com/ghpvc/?username=akshatmittal61&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anubhav-goyal-962744211/)
-[![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.gg/its_anubhav)
+[![discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/its_anubhav)
 </p>
 
 - 🔭 I’m currently working on **App Development Frameworks**
