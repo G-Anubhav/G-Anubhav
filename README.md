@@ -1,5 +1,5 @@
 <h1 align="center"> &lt;greet&gt; Hola <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24> coder! I'm Anubhav Goyal &lt;/greet&gt; </h1>
-<h4 align="center">A passionate software, web developer and c++ programmer.</h4>
+<h3 align="center">A passionate software, web developer and c++ programmer.</h3>
 <div align="center">
 <a href="https://anubhavgoyal.netlify.app"><img width="100%" height = "100%" src="banner.png" alt="Banner Anubhav Goyal" /></a>
 </div>
